@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/KangDaeWon/Dropbox/C/Algorithm/alabama/main1.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+queueADT.h
+/Users/KangDaeWon/Dropbox/C/Algorithm/alabama/queueADT.h
+
+/Users/KangDaeWon/Dropbox/C/Algorithm/alabama/queueADT.cpp
+stdio.h
+-
+stdlib.h
+-
+queueADT.h
+/Users/KangDaeWon/Dropbox/C/Algorithm/alabama/queueADT.h
+
+/Users/KangDaeWon/Dropbox/C/Algorithm/alabama/queueADT.h
+stdbool.h
+-
+

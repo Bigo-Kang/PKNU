@@ -1,0 +1,78 @@
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC".
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC".
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC".
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC".
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC".
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC".
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC".
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC".
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC".
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC".
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" did not produce an executable in "/Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX".
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" did not produce an executable in "/Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX".
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" did not produce an executable in "/Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX".
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" did not produce an executable in "/Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX".
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" did not produce an executable in "/Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX".
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" did not produce an executable in "/Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX".
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" did not produce an executable in "/Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX".
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" did not produce an executable in "/Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX".
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" did not produce an executable in "/Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX".
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" did not produce an executable in "/Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX".
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_c09b2/fast && 
+
+Cannot copy output executable
+  ''
+to destination specified by COPY_FILE:
+  '/Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin'
+Unable to find the executable at any of:
+  /Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/CMakeTmp/cmTC_c09b2
+  /Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/CMakeTmp/Debug/cmTC_c09b2
+  /Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/CMakeTmp/Debug/cmTC_c09b2.app/cmTC_c09b2
+  /Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/CMakeTmp/cmTC_c09b2.app/cmTC_c09b2
+  /Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/CMakeTmp/Development/cmTC_c09b2
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_583ca/fast && 
+
+Cannot copy output executable
+  ''
+to destination specified by COPY_FILE:
+  '/Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin'
+Unable to find the executable at any of:
+  /Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/CMakeTmp/cmTC_583ca
+  /Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/CMakeTmp/Debug/cmTC_583ca
+  /Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/CMakeTmp/Debug/cmTC_583ca.app/cmTC_583ca
+  /Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/CMakeTmp/cmTC_583ca.app/cmTC_583ca
+  /Users/KangDaeWon/Dropbox/C/Algorithm/Dijkstra/cmake-build-debug/CMakeFiles/CMakeTmp/Development/cmTC_583ca
+
+

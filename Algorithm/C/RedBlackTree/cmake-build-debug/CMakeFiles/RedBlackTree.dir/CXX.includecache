@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/KangDaeWon/Dropbox/C/Algorithm/RedBlackTree/main.cpp
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+red_black.h
+/Users/KangDaeWon/Dropbox/C/Algorithm/RedBlackTree/red_black.h
+
+/Users/KangDaeWon/Dropbox/C/Algorithm/RedBlackTree/person.cpp
+person.h
+/Users/KangDaeWon/Dropbox/C/Algorithm/RedBlackTree/person.h
+string.h
+-
+
+/Users/KangDaeWon/Dropbox/C/Algorithm/RedBlackTree/person.h
+
+/Users/KangDaeWon/Dropbox/C/Algorithm/RedBlackTree/red_black.cpp
+red_black.h
+/Users/KangDaeWon/Dropbox/C/Algorithm/RedBlackTree/red_black.h
+stdio.h
+-
+stdlib.h
+-
+
+/Users/KangDaeWon/Dropbox/C/Algorithm/RedBlackTree/red_black.h
+person.h
+/Users/KangDaeWon/Dropbox/C/Algorithm/RedBlackTree/person.h
+

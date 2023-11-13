@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.10)
-project(Dijkstra)
-
-set(CMAKE_CXX_STANDARD 11)
-
-add_executable(Dijkstra dijkstra.cpp)
